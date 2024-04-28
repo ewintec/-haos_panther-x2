@@ -1,3 +1,16 @@
+为Panther X2定制固件
+
+适配点
+
+        基于Green配置改造
+        TF卡启动优先
+        适配有线网卡、蓝牙、WIFI等
+        适配状态灯
+        更换NTP服务为国内地址，启动不卡机，时间正常
+        增加wget、htop、docker compose、vim等插件
+        其它与原版一致
+
+
 # Home Assistant Operating System
 
 Home Assistant Operating System (formerly HassOS) is a Linux based operating system optimized to host [Home Assistant](https://www.home-assistant.io) and its [Add-ons](https://www.home-assistant.io/addons/).
